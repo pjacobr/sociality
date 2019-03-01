@@ -5,6 +5,7 @@ An app that allows groups to have containerized social media platform. It will p
 
 Tools:
 Node 8+: https://nodejs.org/en/download/
+
 Git (Windows): https://git-scm.com/downloads (make sure this in the evironmental variables)
 
 Setup: 
