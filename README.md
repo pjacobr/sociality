@@ -14,4 +14,7 @@ Setup:
 3. Initialize new expo project (cmd: expo init "Name of Project")
 4. Move into Project directory and start server (cmd: cd "Name of Project; npm start)
 5. Install "Expo client" app on iOS or Android and connect to same wireless network as your computer.
-6. Running app on simulator or virtual device: (cmd: 'npm run android' or 'npm run ios')
+6. In terminal, press to sign into account. Create new expo account if necessary.
+7. Open app on phone using client app.
+
+
